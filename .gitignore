@@ -1,0 +1,19 @@
+# Build outputs
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# NuGet packages
+packages/
+
+# Compiled output
+*.exe
+*.dll
+*.pdb
+
+# Logs
+*.log
